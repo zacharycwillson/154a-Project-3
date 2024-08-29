@@ -1,7 +1,7 @@
 # Project 3 README
 
-Student 1: Full Name 1 (123456789)
-Student 2: Full Name 2 (123456798)
+Student 1: Zachary Wilson (123456789)
+Student 2: Qihan Guan (123456798)
 
 ## Project Status
 This the current status of the project ...
