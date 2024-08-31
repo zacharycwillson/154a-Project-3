@@ -1,10 +1,12 @@
 # Project 3 README
 
 Student 1: Zachary Wilson (922725803)
-Student 2: Qihan Guan (123456798)
+Student 2: Qihan Guan (922758317)
 
 ## Project Status
 REGS15 Subcircuit is completed.
+ADDER 15 completed
+ALU completed(still need more debugging)
 
 ## Known Issues
 No known issues so far.
