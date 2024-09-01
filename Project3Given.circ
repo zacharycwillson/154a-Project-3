@@ -5845,6 +5845,11 @@
       <a name="facing" val="east"/>
       <a name="label" val="Z_FLAG_ENABLE"/>
     </comp>
+    <comp lib="0" loc="(3930,530)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="CLK"/>
+      <a name="labelfont" val="SansSerif bold 12"/>
+    </comp>
     <comp lib="0" loc="(3940,470)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="Z_FLAG_IN"/>
@@ -6004,9 +6009,12 @@
     <wire from="(3400,490)" to="(3430,490)"/>
     <wire from="(3490,470)" to="(3540,470)"/>
     <wire from="(3930,500)" to="(3960,500)"/>
+    <wire from="(3930,530)" to="(3960,530)"/>
     <wire from="(3940,470)" to="(3990,470)"/>
     <wire from="(3960,490)" to="(3960,500)"/>
     <wire from="(3960,490)" to="(3990,490)"/>
+    <wire from="(3960,510)" to="(3960,530)"/>
+    <wire from="(3960,510)" to="(3990,510)"/>
     <wire from="(40,1020)" to="(110,1020)"/>
     <wire from="(40,520)" to="(120,520)"/>
     <wire from="(4050,470)" to="(4070,470)"/>
