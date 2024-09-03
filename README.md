@@ -15,9 +15,10 @@ CPU15: R-type, I-type, B type, and S-type completed.
 Couldn't properly test B and S type with given assembly programs. B and S types were tested inside the CPU15 subcircuit via pins. 
 
 ## References
-How ALU work: https://www.lenovo.com/us/en/glossary/arithmetic-logic-unit/?srsltid=AfmBOooC9oPqziaIabvpsJWrWnDkd95dF4duLsqJGyYX6USQs6aLyxL7
-I type instruction : https://gab.wallawalla.edu/~curt.nelson/cptr380/lecture/chapter2%20-%20itype%20instructions.pdf
+How ALU works: https://www.lenovo.com/us/en/glossary/arithmetic-logic-unit/?srsltid=AfmBOooC9oPqziaIabvpsJWrWnDkd95dF4duLsqJGyYX6USQs6aLyxL7
+I type instruction: https://gab.wallawalla.edu/~curt.nelson/cptr380/lecture/chapter2%20-%20itype%20instructions.pdf
 LW 101: https://www3.ntu.edu.sg/home/smitha/fyp_gerald/lwInstruction.html
+CarryLookAhead Adder video: https://www.youtube.com/watch?v=6kTdgkbYZqA&t=750s
 
 
 ## Generative AI Use
