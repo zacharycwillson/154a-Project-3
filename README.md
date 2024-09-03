@@ -1,16 +1,18 @@
 # Project 3 README
 
-Student 1: Zachary Wilson (922725803)
+Student 1: Zachary Willson (922725803)
 Student 2: Qihan Guan (922758317)
 
 ## Project Status
 REGS15 Subcircuit is completed.
 ADDER 15 completed
 ALU completed
-CPU15. R-type, I-type, B type completed, S-type.
+FLAGS8 completed
+DECODER completed
+CPU15: R-type, I-type, B type, and S-type completed.
 
 ## Known Issues
-Couldn't properly test B and S type.
+Couldn't properly test B and S type with given assembly programs. B and S types were tested inside the CPU15 subcircuit via pins. 
 
 ## References
 How ALU work: https://www.lenovo.com/us/en/glossary/arithmetic-logic-unit/?srsltid=AfmBOooC9oPqziaIabvpsJWrWnDkd95dF4duLsqJGyYX6USQs6aLyxL7
